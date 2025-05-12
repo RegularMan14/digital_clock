@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+.container {
+    color: yellow;
+    height: 70rem;
+    width: 80vw;
+    justify-self: center;
+    margin-top: 9vh;
+    border-radius: 3rem;
+    background-image: url("https://cdn.britannica.com/36/22536-050-E22B1D13/Flag-Union-of-Soviet-Socialist-Republics.jpg");
+    background-size:contain;
+}
+
+#title {
+    font-size:3rem;
+    font-family: Old English Text MT;
+    padding-top: 2vh;
+    color: rgb(255, 240, 37);
+}
+
+#head {
+    margin-top: 10vh;
+}
+
+#footing {
+    padding-top: 20vh;
+}
